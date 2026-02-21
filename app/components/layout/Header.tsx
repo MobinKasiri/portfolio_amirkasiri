@@ -112,7 +112,7 @@ const Header = () => {
                      gap: 1,
                      bgcolor: "primary.100",
                      color: "primary.700",
-                     px: 2.5,
+                     px: 2,
                      py: 0.75,
                      borderRadius: "24px",
                      mb: 2.5,
@@ -139,7 +139,7 @@ const Header = () => {
                   sx={{
                      fontWeight: 800,
                      mb: 2,
-                     background: "linear-gradient(135deg, #1e3a8a 0%, #1d4ed8 50%, #3b82f6 100%)",
+                     background: "linear-gradient(135deg, #888 0%, #555 50%, #888 100%)",
                      WebkitBackgroundClip: "text",
                      WebkitTextFillColor: "transparent",
                      backgroundClip: "text",

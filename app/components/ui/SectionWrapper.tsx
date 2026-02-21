@@ -72,7 +72,7 @@ const SectionWrapper = ({
                         width: 48,
                         height: 3,
                         borderRadius: "2px",
-                        background: "linear-gradient(90deg, #1d4ed8, #3b82f6)",
+                        background: "linear-gradient(90deg, #333, #999)",
                      },
                   }}
                >

@@ -80,7 +80,7 @@ const ProjectCard = ({
          <Box
             sx={{
                height: 4,
-               background: "linear-gradient(90deg, #1d4ed8, #3b82f6, #60a5fa)",
+               background: "linear-gradient(90deg, #555, #888)",
             }}
          />
 

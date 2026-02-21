@@ -62,7 +62,7 @@ const Logo = ({ onClick }: { onClick?: () => void }) => (
             width: 36,
             height: 36,
             borderRadius: "10px",
-            background: "linear-gradient(135deg, #1d4ed8, #3b82f6)",
+            background: "linear-gradient(135deg, #222, #666)",
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
