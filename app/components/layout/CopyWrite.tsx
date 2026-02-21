@@ -21,7 +21,7 @@ const CopyWrite = () => {
             >
                © 2025 | Designed & built by{" "}
                <Link
-                  href="https://www.linkedin.com/in/mobinkasiri/"
+                  href="https://www.linkedin.com/in/amirkasirii/"
                   target="_blank"
                   sx={{
                      color: "white",

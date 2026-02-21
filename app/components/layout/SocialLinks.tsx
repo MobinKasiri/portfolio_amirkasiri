@@ -31,7 +31,7 @@ const socialLinks: SocialLink[] = [
    },
    {
       name: "LinkedIn",
-      href: "https://www.linkedin.com/in/mobinkasiri/",
+      href: "https://www.linkedin.com/in/amirkasirii/",
       icon: LinkedInIcon,
    },
       {

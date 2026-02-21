@@ -112,7 +112,7 @@ const page = async () => {
       description: `${FULL_NAME_EN} (${FULL_NAME_FA}) - ${JOB_TITLE_EN} passionate about building clean, responsive, and user-focused web applications`,
       url: BASE_URL,
       sameAs: [
-         "https://www.linkedin.com/in/mobinkasiri/",
+         "https://www.linkedin.com/in/amirkasirii/",
          "https://github.com/mobinkasiri",
       ],
       knowsLanguage: ["en", "fa"],
