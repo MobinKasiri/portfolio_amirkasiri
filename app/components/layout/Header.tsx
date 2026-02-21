@@ -86,7 +86,7 @@ const Header = () => {
                >
                   <Box
                      component="img"
-                     src="/amir_kasiri.jpg"
+                     src="/amir_kasiri.png"
                      alt="Amir Kasiri"
                      sx={{
                         width: 150,
