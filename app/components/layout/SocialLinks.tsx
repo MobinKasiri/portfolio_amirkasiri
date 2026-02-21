@@ -26,7 +26,7 @@ const socialLinks: SocialLink[] = [
    },
    {
       name: "GitHub",
-      href: "https://github.com/mobinkasiri",
+      href: "https://github.com/amirkasirii",
       icon: GitHubIcon,
    },
    {

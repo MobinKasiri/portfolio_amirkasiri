@@ -113,7 +113,7 @@ const page = async () => {
       url: BASE_URL,
       sameAs: [
          "https://www.linkedin.com/in/amirkasirii/",
-         "https://github.com/mobinkasiri",
+         "https://github.com/amirkasirii",
       ],
       knowsLanguage: ["en", "fa"],
       areaServed: {
