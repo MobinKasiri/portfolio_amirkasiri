@@ -100,7 +100,7 @@ const Skills = () => {
          >
             Technologies and tools I work with
          </Typography>
-         <Grid2 container spacing={2} justifyContent="center" sx={{ maxWidth: 900, mx: "auto" }}>
+         <Grid2 container spacing={2} justifyContent="center" sx={{ maxWidth: 1050, mx: "auto" }}>
             {skills.map((skill, index) => (
                <Grid2
                   key={index}
