@@ -1,0 +1,67 @@
+/* colors.css */
+:root {
+   /* Primary Colors */
+   --color-primary-main: #6b7280;
+   --color-primary-50: #f9fafb;
+   --color-primary-100: #f3f4f6;
+   --color-primary-200: #e5e7eb;
+   --color-primary-300: #d1d5db;
+   --color-primary-400: #9ca3af;
+   --color-primary-500: #6b7280;
+   --color-primary-600: #4b5563;
+   --color-primary-700: #374151;
+   --color-primary-800: #1f2937;
+   --color-primary-900: #111827;
+   --color-primary-950: #030712;
+   --color-primary-default: #ffffff;
+   --color-primary-A100: #f9fafb1a;
+
+   /* Dark Primary Colors */
+   --color-dark-primary-main: #9ca3af;
+   --color-dark-primary-50: #111827;
+   --color-dark-primary-100: #1f2937;
+   --color-dark-primary-200: #374151;
+   --color-dark-primary-300: #4b5563;
+   --color-dark-primary-400: #6b7280;
+   --color-dark-primary-500: #9ca3af;
+   --color-dark-primary-600: #d1d5db;
+   --color-dark-primary-700: #e5e7eb;
+   --color-dark-primary-800: #f3f4f6;
+   --color-dark-primary-900: #f9fafb;
+   --color-dark-primary-950: #ffffff;
+   --color-dark-primary-A100: #030712;
+   --color-dark-primary-default: #030712;
+
+   /* Emerald */
+   --color-emerald-main: #10b981;
+   --color-emerald-500: #10b981;
+
+   /* Status Colors - Light Mode */
+   --color-error-main: #d12d2e;
+   --color-warning-main: #ee6a20;
+   --color-info-main: #2a68b1;
+   --color-success-main: #317d3c;
+
+   /* Status Colors - Dark Mode */
+   --color-dark-error-main: #d32f2f;
+   --color-dark-warning-main: #ffa726;
+   --color-dark-info-main: #29b6f6;
+   --color-dark-success-main: #66bb6a;
+}
+
+/* Optional: Class-based color schemes */
+.light-theme {
+   --color-primary: var(--color-primary-main);
+   --color-error: var(--color-error-main);
+   --color-warning: var(--color-warning-main);
+   --color-info: var(--color-info-main);
+   --color-success: var(--color-success-main);
+}
+
+.dark-theme {
+   --color-primary: var(--color-dark-primary-main);
+   --color-error: var(--color-dark-error-main);
+   --color-warning: var(--color-dark-warning-main);
+   --color-info: var(--color-dark-info-main);
+   --color-success: var(--color-dark-success-main);
+}

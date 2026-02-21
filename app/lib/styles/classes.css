@@ -1,0 +1,56 @@
+.transition-all {
+   transition-property: all;
+   transition-timing-function: var(--default-transition-timing-function);
+   transition-duration: var(--default-transition-duration);
+}
+
+.line-clamp-1 {
+   overflow: hidden;
+   display: -webkit-box;
+   -webkit-box-orient: vertical;
+   -webkit-line-clamp: 1;
+   text-overflow: ellipsis;
+}
+
+.line-clamp-2 {
+   overflow: hidden;
+   display: -webkit-box;
+   -webkit-box-orient: vertical;
+   -webkit-line-clamp: 2;
+}
+
+.line-clamp-3 {
+   overflow: hidden;
+   display: -webkit-box;
+   -webkit-box-orient: vertical;
+   -webkit-line-clamp: 3;
+}
+
+.line-clamp-4 {
+   overflow: hidden;
+   display: -webkit-box;
+   -webkit-box-orient: vertical;
+   -webkit-line-clamp: 4;
+}
+
+.line-clamp-5 {
+   overflow: hidden;
+   display: -webkit-box;
+   -webkit-box-orient: vertical;
+   -webkit-line-clamp: 5;
+}
+
+.line-clamp-6 {
+   overflow: hidden;
+   display: -webkit-box;
+   -webkit-box-orient: vertical;
+   -webkit-line-clamp: 6;
+}
+
+.icon-rotate {
+   transition: transform 0.3s ease-in-out;
+}
+
+.icon-rotate:hover {
+   transform: rotate(180deg);
+}
