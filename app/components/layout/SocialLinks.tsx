@@ -21,7 +21,7 @@ const socialLinks: SocialLink[] = [
    },
    {
       name: "Email",
-      href: "mailto:isthemobin@gmail.com",
+      href: "mailto:Amirkasiri79@gmail.com",
       icon: EmailIcon,
    },
    {

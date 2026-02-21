@@ -33,7 +33,7 @@ const Footer = () => {
                mb: 5,
             }}
          >
-            <ContactItem iconName="mail" text="isthemobin@gmail.com" />
+            <ContactItem iconName="mail" text="Amirkasiri79@gmail.com" />
             <ContactItem iconName="call" text="+98 939 692 5530" />
          </Box>
 
